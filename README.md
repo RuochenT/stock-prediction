@@ -3,6 +3,7 @@ This project encompasses various stages, including data collection, exploratory 
 I retrieved stock data using WebSocket due to the nature of the data being presented in a chart. Unfortunately, conventional methods such as requests or BeautifulSoup are not applicable in this scenario. The data fetched pertains to Adanc stock, representing Advanced Info Service Public Company Limited, Thailand's largest GSM mobile phone operator. For more details on the source of the data, you can visit the following website: [Link](https://www.settrade.com/th/technical-chart?symbol=ADVANC&type=stock) 
 
 The data includes closing, opening,highest, lowest, and date which covers the period from 2018-12-21 to 2023-12-20. 
+
 <img width="327" alt="Screenshot 2567-01-25 at 22 10 45" src="https://github.com/RuochenT/Classify-loan/assets/119982930/662f9699-83ab-4732-a18c-ce5065026030">
 
 ## EDA 
