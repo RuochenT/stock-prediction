@@ -8,7 +8,10 @@ The data includes closing, opening,highest, lowest, and date which covers the pe
 
 ## EDA 
 ![1](https://github.com/RuochenT/Classify-loan/assets/119982930/466ab13b-b0b2-4a8f-9ebb-7591113408a3)
+<img width="918" alt="Screenshot 2567-01-28 at 00 00 29" src="https://github.com/RuochenT/predict-heart-disease/assets/119982930/bca45645-0a2e-4db0-8830-3dd7653d5920">
 ![2](https://github.com/RuochenT/Classify-loan/assets/119982930/ce4d91c3-2c84-4ebf-bc6f-e5c3890c8c02)
+
+
 
 ## Methods 
 1. Time series methods: ARIMA (done), EWMA
